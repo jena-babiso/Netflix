@@ -1,11 +1,16 @@
 import './App.css';
+import Footer from './Components/Footer/Footer';
+import Header from './Components/Header/Header';
+import Home from './Components/Home/Home';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Netflix Clone</h1>
-        <p>This is a simple Netflix clone application.</p>
+       <Header />
+       {/* <Home /> */}
+      <Footer />
+
       </header>
     </div>
   );
