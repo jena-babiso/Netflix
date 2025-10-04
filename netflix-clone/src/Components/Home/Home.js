@@ -1,13 +1,15 @@
 import React from 'react'
-
+import Header from '../Header/Header'
+import Footer from '../Footer/Footer'
+import Banner from '../Banner/Banner';
 function Home() {
   return (
-    <div>
-        <h1>Home Component</h1>
-        <p>Welcome to the Home page of the Netflix Clone application.</p>
-      
-    </div>
+    <>
+      <Header />
+      <Banner />
+      <Footer />
+    </>
   )
 }
 
-export default Home
+export default Home;

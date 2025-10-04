@@ -5,9 +5,10 @@
     justify-content: center;
 }
 
-.footer-inner-container{
+.footer-inner-container
+ {
     width: 60%;
-}
+ }
 
 .footer-icon{
     width: 12%;
