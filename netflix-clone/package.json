@@ -1,7 +1,7 @@
 {
   "name": "netflix-clone",
   "version": "0.1.0",
-  "homepage": "https://jena-babiso.github.io/Netflix-clone",
+  "homepage": "https://jena-babiso.github.io/Netflix",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
